@@ -42,6 +42,13 @@ You can access the deployed dashboard here:
 https://ranasaif-ranasaif-creditwise-loan-approval-sys-dashboard-tbwcb3.streamlit.app/
 
 ---
+🚀 Live Demo
+You can access the deployed dashboard here:
+
+🔗 Live App:
+
+
+
 
 ### 🔍 Exploratory Data Analysis (EDA)
 
